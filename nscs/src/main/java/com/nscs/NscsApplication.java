@@ -10,7 +10,6 @@ import org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfigurat
         DataSourceAutoConfiguration.class, 
         DataSourceTransactionManagerAutoConfiguration.class, 
         HibernateJpaAutoConfiguration.class
-        
     })
 public class NscsApplication {
 
